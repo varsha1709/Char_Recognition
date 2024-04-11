@@ -1,7 +1,6 @@
 flask
 tensorflow
 opencv-python
-cv2
 numpy
 pandas
 gunicorn
